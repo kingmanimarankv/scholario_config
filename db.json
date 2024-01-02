@@ -1,0 +1,30 @@
+"colleges": [
+                {
+                    "college_id": 1,
+                    "college_name": "Madras Institute of Technology",
+                    "departments": [
+                        {
+                            "department_id": 1,
+                            "department_name": "Production Technology",
+                            "host_name": "http://192.168.1.8:5000"
+                        },
+                        {
+                            "department_id": 2,
+                            "department_name": "Electronics and Communication Engineering",
+                            "host_name": "http://192.168.1.9:5000"
+                        },
+                    ]
+                },
+                {
+                    "college_id": 2,
+                    "college_name": "Thanthai Periyar Government Institute of Technology",
+                    "departments": [
+                        {
+                            "department_id": 3,
+                            "department_name": "Electronics and Communication Engineering",
+                            "host_name": "http://192.168.1.10:5000"
+                        }
+                    ]
+                }
+            ]
+        }
